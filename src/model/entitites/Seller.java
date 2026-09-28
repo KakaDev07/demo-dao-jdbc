@@ -69,6 +69,14 @@ public class Seller implements Serializable {
         this.birthDate = birthDate;
     }
 
+    public Department getDepartment() {
+        return department;
+    }
+
+    public void setDepartment(Department department) {
+        this.department = department;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (o == null || getClass() != o.getClass()) return false;
@@ -92,5 +100,6 @@ public class Seller implements Serializable {
                 ", department=" + department +
                 '}';
     }
+
 }
 
