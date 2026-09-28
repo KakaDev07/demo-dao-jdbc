@@ -3,6 +3,7 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/JAVA_LIBS/JDBC-CONNECTORS/mysql-connector-java-5.1.47.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../../../../JAVA LIBIS/LIBRARY/mysql-connector-java-5.1.47.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../JAVA_LIBS/JDBC-CONNECTORS/mysql-connector-java-5.1.47.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
